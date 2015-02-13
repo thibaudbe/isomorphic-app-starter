@@ -4,7 +4,7 @@ Isomorphic app starter
 An isomorphic proof of concept with Expressjs and Gulp to prerender Reactjs.
 
 I've set 2 variables to test Reactjs rendering. Simply enable or disable JavaScript in your browser : 
-- In the server side, ```state``` will return "disable". It's the SEO concerned part.
+- In the server side, ```state``` will return "disable". This is the part which is concerned by SEO.
 - In the client side, it'll return "enable".
 
 
@@ -13,8 +13,6 @@ I've set 2 variables to test Reactjs rendering. Simply enable or disable JavaScr
 Install dependencies
 
 	sudo npm install
-
-You need to run default ```gulp``` task to compile the first time bundle app in public folder.
 
 
 ## Start server
