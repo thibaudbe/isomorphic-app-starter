@@ -6,3 +6,8 @@ body {
 a {
   color: #00B7FF;
 }
+
+p {
+	color: #ddd;
+	font-size: .8em;
+}
